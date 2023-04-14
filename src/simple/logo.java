@@ -8,7 +8,7 @@ package simple;
 
 /**
  *
- * @author Rj
+ * @author Ba
  */
 public class logo {
  
